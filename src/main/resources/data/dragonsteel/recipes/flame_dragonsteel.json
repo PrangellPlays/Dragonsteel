@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "dragonsteel:dragonsteel"
+  },
+  "addition": {
+    "item": "cataclysm:ignitium_ingot"
+  },
+  "result": {
+    "item": "dragonsteel:flame_dragonsteel"
+  }
+}

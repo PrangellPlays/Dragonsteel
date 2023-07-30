@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dragonsteel:block/dragonsteel_block"
+  }
+}

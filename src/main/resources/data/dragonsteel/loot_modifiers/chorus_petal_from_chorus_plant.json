@@ -1,0 +1,12 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.01,
+      "condition": "block_state_property",
+      "block": "minecraft:chorus_plant"
+    }
+  ],
+  "addition": "dragonsteel:chorus_petal",
+  "type": "dragonsteel:chorus_petal_from_chorus_plant"
+}

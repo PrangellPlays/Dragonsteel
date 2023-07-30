@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pdp",
+    "pbp",
+    "pep"
+  ],
+  "key": {
+    "p": {
+      "item": "dragonsteel:chorus_petal"
+    },
+    "d": {
+      "item": "minecraft:dragon_breath"
+    },
+    "b": {
+      "item": "minecraft:blue_orchid"
+    },
+    "e": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+    "item": "dragonsteel:dragon_lily",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dragonsteel:dragonsteel_block"
+    }
+  ],
+  "result": {
+    "item": "dragonsteel:dragonsteel",
+    "count": 9
+  }
+}

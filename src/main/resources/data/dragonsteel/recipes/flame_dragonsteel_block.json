@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DDD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "dragonsteel:flame_dragonsteel"
+    }
+  },
+  "result": {
+    "item": "dragonsteel:flame_dragonsteel_block",
+    "count": 1
+  }
+}

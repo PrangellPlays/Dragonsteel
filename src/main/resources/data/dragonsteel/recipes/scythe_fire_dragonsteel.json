@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " nn",
+    "ns ",
+    "s  "
+  ],
+  "key": {
+    "n": {
+      "item": "dragonsteel:flame_dragonsteel"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dragonsteel:scythe_fire_dragonsteel",
+    "count": 1
+  }
+}
